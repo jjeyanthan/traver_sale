@@ -6,6 +6,8 @@ A simple tool made for testing  directory traversal.
 ## installation : 
 
 ```bash
+git clone https://github.com/jjeyanthan/traver_sale.git
+
 pip install -r requirements.txt
 ```
 
